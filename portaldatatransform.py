@@ -30,14 +30,13 @@ with open('sfdatacombined.csv','U') as f:
       name     = i[0]
       views    = i[3]
       link     = i[5]
-      print i[6]
       size     = int(i[6])
       logsize  = math.log(size)
       index = check_categories(out,category)
       if index == -1:
-        out.append({'name': category, 'children': [ {'name': name, 'value': size, 'link': link, 'log': logsize } ] })
+        out.append({"name": category, "children": [ {"name": name, "value": size, "link": link, "log": logsize } ] })
       else:
-        out[index]['children'].append({'name': name, 'value': size, 'link': link, 'log': logsize })
+        out[index]["children"].append({"name": name, "value": size, "link": link, "log": logsize })
 
 for i in out:
   print(i)
