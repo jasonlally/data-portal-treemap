@@ -1,0 +1,226 @@
+List of Historical Ballot Measures,Other, ,249,"Ballot Proposition Symbols	
+This is an explanation of the last two columns of the Ballot Proposition Data. The first symbol is a letter indicating the type of measure--for example, a charter amendment or ordinance.	The second symbol is a letter indicating how the measure was placed on the ballot--for example, by the Board of Superviors or by initiative petition.	
+These are their meanings:	
+First Letter--The Type of Legislaton	
+B	Bond Issue
+C	Charter Amendment
+L	Lease Revenue Bond Issue
+O	Ordinance
+P	Policy Declaration
+R	Recall
+RM	RegionalMeasure
+T	Tax Authority for School District
+Second Letter--How it was placed on the Ballot	
+C	Charter Commission, elected by the voters
+I	Initiative Petition
+L	Labor Disputes
+M	Mayor
+R	Referendum Petition
+S	The Board ofSupervisors
+s	Four or more individualsupervisors
+se	Special, i.e. Board of Education
+2	Bytwoof the above methods",https://data.sfgov.org/Other/List-of-Historical-Ballot-Measures/xzie-ixjw,982
+Landlord Utility Passthroughs,Other, ,96,"Where a landlord pays for gas, electricity and/or steam provided to the tenant&#x27;s unit and/or to the common areas of the property, the landlord may recover the increase in the cost of these utilities from the tenants in the form of a utility passthrough 
+Time Period: January 1, 2004 thru December 31, 2010",https://data.sfgov.org/Other/Landlord-Utility-Passthroughs/5ayi-he6v,1824
+FY 2008-09 And FY 2009-10 Budget,Administration and Finance, ,62,"This shows the adopted budgets for all San Francisco Departments for two fiscal years - FY 2008-2009 and FY 2009-2010. It is organized by Organization(Department and Division), Service (Program), Fund, and Type of Revenue or Expenditure (with details: Character, Object and Sub-object).",https://data.sfgov.org/Administration-and-Finance/FY-2008-09-And-FY-2009-10-Budget/vcgk-qeuz,15179
+FY 2009-10 And FY 2010-11 Budget,(none), ,60,"This shows the adopted budgets for all San Francisco Departments for two fiscal years - FY 2009-10 and FY 2010-2011. It is organized by Organization(Department and Division), Service (Program), Fund, and Type of Revenue or Expenditure (with details: Character, Object and Sub-object).",https://data.sfgov.org/dataset/FY-2009-10-And-FY-2010-11-Budget/3sqv-mqe9,15003
+Adopted Position Budgets for two years ending FY 2009-10,Administration and Finance, ,80,"This shows the adopted position budgets for all San Francisco Departments for two fiscal years - FY 2008-2009 and FY 2009-2010. It is organized by Organization(Department and Division), Service (Program), Fund, Job Class, Bargaining Unit, and Type of Expenditure (Salaries or Benefits). It shows the counts of Full Time Equivalents and the amount.",https://data.sfgov.org/Administration-and-Finance/Adopted-Position-Budgets-for-two-years-ending-FY-2/pqai-92ru,18222
+Adopted Position Budgets for two years ending FY 2010-11,Administration and Finance, ,43,"This shows the adopted position budgets for all San Francisco Departments for two fiscal years - FY 2009-2010 and FY 2010-2011. It is organized by Organization(Department and Division), Service (Program), Fund, Job Class, Bargaining Unit, and Type of Expenditure (Salaries or Benefits). It shows the counts of Full Time Equivalents and the amount.",https://data.sfgov.org/Administration-and-Finance/Adopted-Position-Budgets-for-two-years-ending-FY-2/yh2t-xawu,17634
+SFO 2011 Customer Survey Data Set,Transportation, ,341,"This passenger data set contains data pertaining to customer demographics and satisfaction with Airport facilities, services, and initiatives. The data was collected in May 2011 through interviews with 3,872 customers in each of SFOs terminals and boarding areas. Samples sizes per terminal, boarding area, airline, and time of day were weighted to reflect actual customer traffic disbursement.",https://data.sfgov.org/Transportation/SFO-2011-Customer-Survey-Data-Set/v94x-pf9r,3872
+SFPD Incidents - Previous Three Months,Public Safety, ,"2,238",Incidents derived from SFPD Crime Incident Reporting system.  Previous month.  Updated daily.,https://data.sfgov.org/Public-Safety/SFPD-Incidents-Previous-Three-Months/tmnf-yvry,30366
+Data Catalog,Other, ,"6,196",,https://data.sfgov.org/Other/Data-Catalog/h4ui-ubbu,610
+"Campaign Finance - Summary Financial Data for Committees Controlled by Candidates for Mayor - November 8, 2011 Election",, ,168,"This dataset contains the financial summary information reported on Fair Political Practices Commission Form 460 by committees controlled by candidates running for Mayor in the November 8, 2011 election.  The data covers the period of 2009-2011 and is current as of 3/8/2012.",https://data.sfgov.org/Ethics/Campaign-Finance-Summary-Financial-Data-for-Commit/csud-q746,2555
+"Campaign Finance - Summary of Third Party Disclosure Forms Regarding San Francisco Candidates - November 8, 2011 Election",, ,130,"San Francisco Campaign and Governmental Conduct Code (&quot;S.F. C&amp;GC Code&quot;) sections 1.143(c), 1.152(a)(3), 1.161(b), 1.161.5, and 1.160.5 require persons who make any independent expenditure, electioneering communication, or member communication that clearly identifies a candidate for City elective office or who authorizes, administers or pays for a persuasion poll to file disclosure statements with the Ethics Commission. For detailed instructions, please see Third Party Disclosure Form Regarding Candidates.",https://data.sfgov.org/Ethics/Campaign-Finance-Summary-of-Third-Party-Disclosure/6xiy-xib3,229
+Campaign Finance - Filers With Delinquent Campaign Filings,, ,346,"According to its records, the Ethics Commission has identified the campaign finance disclosure filers in this table as non-responsive (NR) filers.  NR filers are those that have not responded to two or more written notices and one or more verbal notices regarding past-due reporting.  Please note that Ethics Commission records are subject to change and the table below may not include all NR filers or reflect recent activity.  The NR filers are encouraged to contact the Commission because continued failure to file may result in an enforcement action.  Posted NR filers are removed from the list after filing their past-due campaign statement(s) or five years have elapsed since the applicable filing deadline.",https://data.sfgov.org/Ethics/Campaign-Finance-Filers-With-Delinquent-Campaign-F/jb8g-e374,39
+Campaign Finance - Data Key,, ,339,"The dataset contains descriptions for each column of historical campaign finance data available on data.sfgov.org or the Excel exports on the Ethics Commission&#x27;s Campaign Finance Database at <a href=""http://nf4.netfile.com/pub2?aid=sfo"" rel=""nofollow external"">http://nf4.netfile.com/pub2?aid=sfo</a>
+
+Please note -- the column header names on different schedules of Form 460 often match, but sometimes have different meanings.",https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76,945
+San Francisco Development Pipeline,Construction and Housing, ,359,"Snapshot of San Francisco Development Pipeline. Tracking of construction and entitlement activity based on data from Dept of Building Inspection&#x27;s Permit Tracking and the Planning Department&#x27;s Case Tracking enterprise databases, processed quarterly.",https://data.sfgov.org/Construction-and-Housing-/San-Francisco-Development-Pipeline/v5p2-emnu,744
+Cases By Channel,Service Requests (311), ,119,Shows cases created by channel for San Francisco 311. The first column shows the year and month (although it looks like a single date),https://data.sfgov.org/Service-Requests-311-/Cases-By-Channel/y3n8-uk7h,75
+Lobbyist Directory,, ,190,"The directory of individual lobbyists contains a list of all lobbyists registered with the San Francisco Ethics Commission.
+
+This dataset updates automatically every night.",https://data.sfgov.org/Ethics/Lobbyist-Directory/exbu-si57,117
+Lobbyist Client Directory,, ,315,"Directory of Clients of  Lobbyists; there are multiple records if there is more than one Lobbyist for a Client.  This list includes both current and past clients for each lobbyist.
+
+Lobbyist clients are disclosed by lobbyists registered with the Ethics Commission on a monthly basis.  This dataset updates automatically every night.",https://data.sfgov.org/Ethics/Lobbyist-Client-Directory/u4y3-k4vs,944
+Lobbyist Activity - Activity Expenses,, ,189,"&quot;Activity expenses&quot; means any expense incurred or payment made by a lobbyist or a lobbyist&#x27;s client at the behest of the lobbyist, or arranged by a lobbyist or a lobbyist&#x27;s client at the behest of the lobbyist, which benefits in whole or in part any: officer of the City and County; candidate for City and County office; aide to a member of the Board of Supervisors; or member of the immediate family or the registered domestic partner of an officer, candidate, or aide to a member of the Board of Supervisors. An expense or payment is not an &quot;activity expense&quot; unless it is incurred or made within three months of a contact with the officer, candidate, or Supervisor&#x27;s aide who benefits from the expense or payment, or whose immediate family member or registered domestic partner benefits from the expense or payment. &quot;Activity expenses&quot; include honoraria, consulting fees, salaries, and any other thing of value totaling more than $25 in value in a consecutive three-month period, but do not include political contributions.
+
+Activity expenses are disclosed by lobbyists registered with the Ethics Commission on a monthly basis.  This dataset updates automatically every night.",https://data.sfgov.org/Ethics/Lobbyist-Activity-Activity-Expenses/rvdt-bv57,4
+Lobbyist Activity - Political Contributions,, ,263,"All political contributions of $100 or more made or delivered by the lobbyist or the lobbyist&#x27;s employer, or made by a client at the behest of the lobbyist or the lobbyist&#x27;s employer during the reporting period to an officer of the City and County, a candidate for such office, a committee controlled by such officer or candidate, or a committee primarily formed to support or oppose such officer or candidate, or any committee primarily formed to support or oppose a ballot measure to be voted on only in San Francisco. This includes political contributions arranged by the lobbyist, or for which the lobbyist acted as an agent or intermediary.
+
+Political contributions are disclosed by lobbyists registered with the Ethics Commission on a monthly basis.  This dataset updates automatically every night.",https://data.sfgov.org/Ethics/Lobbyist-Activity-Political-Contributions/sa8r-purn,492
+Lobbyist Activity - Contacts of Public Officials,, ,680,"The name of each officer of the City and County of San Francisco with whom a lobbyist made a contact.  
+
+Contacts of public officials are disclosed by lobbyists registered with the Ethics Commission on a monthly basis.  This dataset updates automatically every night.",https://data.sfgov.org/Ethics/Lobbyist-Activity-Contacts-of-Public-Officials/hr5m-xnxc,4709
+Lobbyist Activity - Payments Promised By Clients,, ,184,"The amount of economic consideration received or expected by the lobbyist or the lobbyist&#x27;s employer from each client during the reporting period.
+
+Promised payments are disclosed by lobbyists registered with the Ethics Commission on a monthly basis.  This dataset updates automatically every night.",https://data.sfgov.org/Ethics/Lobbyist-Activity-Payments-Promised-By-Clients/s2fy-y3my,4116
+Campaign Finance - FPPC Form 496 - Late Independent Expenditure Report - Independent Expenditures Made,, ,290,"This dataset includes all itemized late independent expenditures ($1000 or more) e-filed on Fair Political Practices Commission (FPPC) Form 496 Late Independent Expenditures Report from 2008 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-496-Late-Independent-Ex/4fd4-wqps,726
+Campaign Finance - FPPC Form 497 - Late Contribution Report - Late Contributions Made,, ,258,"This dataset includes all itemized late contributions (cumulative $1,000 or more) e-filed on Fair Political Practices Commission (FPPC) Form 497 Late Contribution Report from 2008 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-497-Late-Contribution-R/xdap-cuq4,917
+Campaign Finance - FPPC Form 460 - Schedule B1 - Loans Received,, ,146,"This dataset includes all itemized loans received ($100 or more) e-filed on Fair Political Practices Commission (FPPC) Form 460 Schedule &quot;B1&quot; Loans Received from 1998 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-B1-Loans-R/4phr-3hrm,3268
+Parking meters,Transportation, ,"1,153","All parking meters owned by the SFMTA and the Port of San Francisco as of April 2013. Find attached a data dictionary, a version of the map as a PDF, and a shapefile of the data.
+
+This data includes
+
+    locations of meters;
+    meter characteristics, such as
+      single-space or multi-space meter, 
+        smart meter status, 
+        sensor status,  
+        owner, 
+        on or off-street location; 
+    rate areas; 
+    cap colors (use type and restrictions): 
+      Black: Motorcycle parking, 
+        Brown: Tour bus parking, 
+        Green: Short term parking, 
+        Grey: General metered parking, 
+        Purple: Boat trailer parking, 
+        Red: Six-wheeled commercial vehicle parking, 
+        Yellow: Commercial vehicle parking.",https://data.sfgov.org/Transportation/Parking-meters/7egw-qt89,29253
+Campaign Finance - FPPC Form 460 - Schedule A - Monetary Contributions,, ,528,"This dataset includes all itemized monetary contributions ($100 or more) e-filed on Fair Political Practices Commission (FPPC) Form 460 Schedule &quot;A&quot; Monetary Contributions from 1998 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-A-Monetary/q66q-d2tr,252238
+Campaign Finance - FPPC Form 460 - Schedule B2 - Loan Guarantors,, ,88,"This dataset includes all itemized guarantors of loans ($100 or more) e-filed on Fair Political Practices Commission (FPPC) Form 460 Schedule &quot;B2&quot; Loan Guarantors from 1998 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-B2-Loan-Gu/ec3y-6ty9,38
+Campaign Finance - FPPC Form 460 - Schedule C - Non-Monetary Contributions,, ,194,"This dataset includes all itemized non-monetary contributions ($100 or more) e-filed on Fair Political Practices Commission (FPPC) Form 460 Schedule &quot;C&quot; Non-Monetary Contributions from 1998 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-C-Non-Mone/k76b-4yme,4154
+"Campaign Finance - FPPC Form 460 - Schedule D - Summary of Expenditures Supporting/Opposing Other Candidates, Measures and Committees",, ,241,"This dataset includes all itemized expenditures supporting/opposing other candidates, measures and committees ($100 or more) e-filed on Fair Political Practices Commission (FPPC) Form 460 Schedule &quot;D&quot; Expenditures Supporting/Opposing Other Candidates, Measures and Committees from 1998 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-D-Summary-/i8us-xn7t,9129
+Disabled Parking,Transportation, ,183,"All disabled parking spaces as of September 2011. Find attached a data dictionary, a version of the map as a PDF, and a shapefile of the data. Data includes locations and site details; space characteristics, such as space length, side of street the space is located on, curb quality; post ID equivalent, if located in a metered area; date of site visit for available data.",https://data.sfgov.org/Transportation/Disabled-Parking/wc6f-brai,733
+Campaign Finance - FPPC Form 460 - Schedule E - Payments Made,, ,141,"This dataset includes all itemized payments made ($100 or more) e-filed on Fair Political Practices Commission (FPPC) Form 460 Schedule &quot;E&quot; Payments Made from 1998 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-E-Payments/hc26-j9if,71308
+Off-Street parking lots and parking garages,Transportation, ,579,"Publicly available off-street parking in San Francisco as of September 2011. Find attached a data dictionary, a version of the map as a PDF (symbolized to show garage type and capacity of garage), and a shapefile and CSV of the data. 
+
+This dataset includes location, capacities, and related details of public parking garages and lots; four parking categories: paid, publicly available (PPA): drive up and pay, typically by the hour or by the day; customer parking only (CPO): typically for businesses or religious institutions; permit holder only (PHO, CGO): i.e. employees only, students only, monthly only; free publicly available (FPA): free off-street parking. The data does not contain off-street residential parking spaces or other unmarked private parking.",https://data.sfgov.org/Transportation/Off-Street-parking-lots-and-parking-garages/uupn-yfaw,1396
+"Campaign Finance - FPPC Form 461 - Major Donor and Independent Expenditure Committee Statement - Part 5 - Contributions (Including Loans, Forgiveness of Loans, and Loan Guarantees) and Expenditures Made",, ,253,"This dataset includes all itemized Contributions (Including Loans, Forgiveness of Loans, and Loan Guarantees) and Expenditures Made ($100 or more) e-filed on Fair Political Practices Commission (FPPC) Form 461 &quot;Part 5&quot; Contributions (Including Loans, Forgiveness of Loans, and Loan Guarantees) and Expenditures Made from 2009 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-461-Major-Donor-and-Ind/86nq-bynj,735
+Campaign Finance - FPPC Form 465 - Supplemental Independent Expenditure Report - Part 3 - Independent Expenditures Made,, ,148,"This dataset includes all itemized independent expenditures ($100 or more) e-filed on Fair Political Practices Commission (FPPC) Form 465 Part 3 Independent Expenditures Made from 2009 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-465-Supplemental-Indepe/pyxa-3r7p,4941
+Campaign Finance - FPPC Form 460 - Schedule F - Accrued Expenses (Unpaid Bills),, ,247,"This dataset includes all itemized accrued expenses ($100 or more) e-filed on Fair Political Practices Commission (FPPC) Form 460 Schedule &quot;F&quot; Accrued Expenses (Unpaid Bills) from 1998 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-F-Accrued-/tr8k-7cit,17536
+Campaign Finance - FPPC Form 460 - Schedule G - Payments Made by an Agent or Independent Contractor,, ,129,"This dataset includes all itemized payments made by an agent or independent contractor ($500 or more) e-filed on Fair Political Practices Commission (FPPC) Form 460 Schedule &quot;G&quot; Payments Made by an Agent or Independent Contractor from 1998 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-G-Payments/6iqh-u3hk,14160
+Campaign Finance - FPPC Form 460 - Schedule H - Loans Made to Others,, ,96,"This dataset includes all itemized loans made to others ($100 or more) e-filed on Fair Political Practices Commission (FPPC) Form 460 Schedule &quot;H&quot; Loans Made to Others from 1998 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-H-Loans-Ma/62ex-d3qk,313
+Campaign Finance - FPPC Form 460 - Schedule I - Miscellaneous Increases to Cash,, ,144,"This dataset includes all itemized Miscellaneous Increases to Cash ($100 or more) e-filed on Fair Political Practices Commission (FPPC) Form 460 Schedule &quot;I&quot; Miscellaneous Increases to Cash from 1998 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-I-Miscella/6ssu-ewuc,2304
+Campaign Finance - FPPC Form 460 - Summary Totals,, ,566,"This dataset includes all summary totals e-filed on Fair Political Practices Commission (FPPC) Form 460 Summary Page from 1998 to the present.
+
+The data is current as of the last modified date on this dataset.
+
+See the data key for column definitions:  <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Summary-Totals/4tts-fyix,279398
+"Campaign Finance - Individual Expenditure Ceilings (IECs) - November 6, 2012 Election",Ethics, ,194,,https://data.sfgov.org/Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/85cd-6rtn,111
+"Campaign Finance - Public Funds Disbursed - November 6, 2012 Election",, ,281,,https://data.sfgov.org/Ethics/Campaign-Finance-Public-Funds-Disbursed-November-6/7x5u-tf83,67
+"Campaign Finance - Summary of Third Party Disclosure Forms Regarding San Francisco Candidates - November 6, 2012",, ,285,"San Francisco Campaign and Governmental Conduct Code (&quot;S.F. C&amp;GC Code&quot;) sections 1.143(c), 1.152(a)(3), 1.161(b), 1.161.5, and 1.160.5 require persons who make any independent expenditure, electioneering communication, or member communication that clearly identifies a candidate for City elective office or who authorizes, administers or pays for a persuasion poll to file disclosure statements with the Ethics Commission. For detailed instructions, please see Third Party Disclosure Form Regarding Candidates.",https://data.sfgov.org/Ethics/Campaign-Finance-Summary-of-Third-Party-Disclosure/n84t-vfnk,151
+Metered motorcycle spaces,Transportation, ,238,"This dataset includes metered motorcycle parking spaces in San Francisco as of April 2013. Find attached a data dictionary, a version of the map as a PDF, and a shapefile of the data. This data provides locations of motorcycle meters; meter characteristics, such as single-space or multi-space meter, smart meter status, sensor status, owner, on- or off-street location; rate area.",https://data.sfgov.org/Transportation/Metered-motorcycle-spaces/uf55-k7py,2273
+Intersections [ArcGIS_rest_services_EPM_new_MapServer_3],Transportation, ,59,"<a href=""http://bsmnt.sfdpw.org/ArcGIS/rest/services/EPM_new/MapServer/3"" rel=""nofollow external"">http://bsmnt.sfdpw.org/ArcGIS/rest/services/EPM_new/MapServer/3</a>",https://data.sfgov.org/Transportation/Intersections-ArcGIS_rest_services_EPM_new_MapServ/vy5m-ksqp,
+Campaign Finance - FPPC Form 496 - Late Independent Expenditure Report - Part 3 - Contributions of $100 or More Received,, ,117,"This dataset includes all itemized contributions of $100 or more e-filed on Fair Political Practices Commission (FPPC) Form 496 &quot;Part 3&quot; Contributions of $100 or More Received from 2009 to the present. The data is current as of the last modified date on this dataset. 
+
+See the data key for column definitions: <a href=""https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76"" rel=""nofollow external"">https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76</a>",https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-496-Late-Independent-Ex/p4sp-es3b,1305
+Businesses Registered in San Francisco - Active,Business and Economic Development, ,"7,653","Use this link for the code classifications used in the data set: <a href=""http://www.sftreasurer.org/Modules/ShowDocument.aspx?documentid=218"" rel=""nofollow external"">http://www.sftreasurer.org/Modules/ShowDocument.aspx?documentid=218</a>
+Locations geocoded for ~75% of businesses.
+Does not include closed business locations.",https://data.sfgov.org/Business-and-Economic-Development/Businesses-Registered-in-San-Francisco-Active/funx-qxxn,165493
+SFGIS Data Catalog - Internal,Geography, ,"1,378",SFGIS Data Catalog - Internal,https://data.sfgov.org/Geography/SFGIS-Data-Catalog-Internal/udj9-yye5,116
+Utility Excavation Moratorium Streets,Public Works, ,271,Street segments and intersections that have been paved within the last 5 years,https://data.sfgov.org/Public-Works/Utility-Excavation-Moratorium-Streets/5wbp-dwzt,3884
+Campaign Finance - Total Expenditures By Candidate Controlled Committees for Board of Supervisors as of the 6-30-2012 Campaign Finance Deadline - November 6 2012 Election,, ,102,"See Dashboards for more at <a href=""http://www.sfethics.org/ethics/2012/08/november-6-2012-election-campaign-finance-dashboards.html"" rel=""nofollow external"">http://www.sfethics.org/ethics/2012/08/november-6-2012-election-campaign-finance-dashboards.html</a>",https://data.sfgov.org/Ethics/Campaign-Finance-Total-Expenditures-By-Candidate-C/8fqb-pfp6,17
+Campaign Consultants - List of Registered Campaign Consultants and their Respective Clients,, ,62,,https://data.sfgov.org/Ethics/Campaign-Consultants-List-of-Registered-Campaign-C/wchi-36a5,27
+Campaign Finance - List of Candidates Running for Office in November 2012 who have Accepted the Voluntary Expenditure Ceiling,, ,34,,https://data.sfgov.org/Ethics/Campaign-Finance-List-of-Candidates-Running-for-Of/npcx-9w98,10
+"Campaign Finance - Status of Voluntary Expenditure Ceiling (VECs) in November 6, 2012 Election",, ,27,"Under S.F. Campaign and Governmental Conduct Code 1.128, a candidate who wishes to accept the voluntary expenditure ceiling must file Form SFEC-128 no later than the August 10, 2012 deadline for filing nomination papers.
+
+In a race where at least one candidate has accepted the VEC, all candidates running for office in the same race must file Form SFEC 134(b) within 24 hours of receiving contributions, making expenditures, or having funds that exceed 100 percent of the applicable VEC.
+
+In addition, any person other than a candidate committee who makes or incurs expenditures for the purpose of distributing independent expenditures, electioneering communications, or member communications that clearly identify any candidate that equals or exceeds $5,000 per candidate, must within 24 hours of each time it reaches the $5,000 threshold file a Third Party Disclosure Form.",https://data.sfgov.org/Ethics/Campaign-Finance-Status-of-Voluntary-Expenditure-C/bmnx-cibx,2
+Lobbyist Data Name Mapping,, ,92,"Lobbyists are required to accurately self-report all information required under the Lobbyist Ordinance.  The Ethics Commission does not alter any entry except to correct typographical errors in order to facilitate the public&#x27;s use of the reported information.  This includes correcting the spelling of public officials&#x27; names. However, the Commission retains the original filings in its office. 
+
+The table below provides a list of typographical errors on lobbyist disclosure reports since January, 2010. The &quot;Reported As&quot; column indicates the name originally reported by the lobbyist. The &quot;Display As&quot; column indicates the corrections made on the lobbyist web site.",https://data.sfgov.org/Ethics/Lobbyist-Data-Name-Mapping/u89s-bsxm,45
+Campaign Finance - SFEC 1.126 Notification of Contract Approval Filings,Ethics, ,150,"The dataset includes a list of SFEC 1.126 Notification of Contract Approval Filings filed with the San Francisco Ethics Commission.
+Each City elective officer who approves a contract that has a value of $50,000 or more in a fiscal year must file form SFEC-126 with the Ethics Commission within five business days of approval. This filing requirement applies if the contract is approved by:
+(1)the City elective officer, (2) any board on which the City elective officer serves, or (3) the board of any state agency on which an appointee of the City elective officer serves.
+
+To view the filings, proceed to:  <a href=""http://www.sfethics.org/ethics/contracts/"" rel=""nofollow external"">http://www.sfethics.org/ethics/contracts/</a>",https://data.sfgov.org/Ethics/Campaign-Finance-SFEC-1-126-Notification-of-Contra/sn2k-q974,1811
+Pipeline Q2 2012,Construction and Housing, ,144,"Snapshot of San Francisco Development Pipeline. Tracking of construction and entitlement activity based on data from Dept of Building Inspection&#x27;s Permit Tracking and the Planning Department&#x27;s Case Tracking enterprise databases, processed quarterly.",https://data.sfgov.org/Construction-and-Housing-/Pipeline-Q2-2012/ugxk-ztb8,740
+Curb Ramps,Public Works, ,105,Curb Ramp Locations,https://data.sfgov.org/Public-Works/Curb-Ramps/ch9w-7kih,24460
+Mobile Food Schedule,Permitting, ,205,"a child data set of --Mobile Food Facility Permit-- includes day of week, start / end time, location and a description of type of food sold by vendor.",https://data.sfgov.org/Permitting/Mobile-Food-Schedule/jjew-r69b,56193
+Mobile Food Facility Permit,Permitting, ,343,"Mobile Food Facility Permits including name of vendor, location, type of food sold and status of permit.",https://data.sfgov.org/Permitting/Mobile-Food-Facility-Permit/rqzj-sfat,717
+Street-Use Permits,Permitting, ,206,Active Street use permits issued by DPW,https://data.sfgov.org/Permitting/Street-Use-Permits/b6tj-gt35,6447
+Utility Excavation Permits,Permitting, ,61,Active Utility Excavation permits issued by DPW,https://data.sfgov.org/Permitting/Utility-Excavation-Permits/smdf-6c45,2202
+Street Space Permits,Permitting, ,160,Street Space permits are generally issued for construction related work such as building construction activities or sidewalk repair work.,https://data.sfgov.org/Permitting/Street-Space-Permits/yivs-89de,782
+Permit Types,Permitting, ,56,a child table for --Street-Use Permits-- and --Right of Way Exception Data--.  contains a translation of permit type abbreviations,https://data.sfgov.org/Permitting/Permit-Types/6wa6-8527,36
+Right of Way Exception Data,Permitting, ,110,"A table of restrictions and information about existing conditions in the public right of way.  including permits, moratorium streets, AWSS, SFMTA bluebook, 5 year plan, bike lanes, jurisdiction, monuments, etc.  AKA Street Restrictions, The Exception Table",https://data.sfgov.org/Permitting/Right-of-Way-Exception-Data/yrgu-vakm,94064
+Right of Way Exception Codes,Permitting, ,45,a child table of --Right of Way Exception Data--.  a look up table for exception code values,https://data.sfgov.org/Permitting/Right-of-Way-Exception-Codes/a8af-5fif,46
+Street Names,Public Works, ,319,A list of officially valid street names contained in the City&#x27;s GIS Basemap,https://data.sfgov.org/Public-Works/Street-Names/6d9h-4u5v,2646
+List of Blocks Where DPW Has a Tree Maintenance Agreement,Public Works, ,100,Location and count of trees by block where DPW has a tree maintenance agreement.,https://data.sfgov.org/Public-Works/List-of-Blocks-Where-DPW-Has-a-Tree-Maintenance-Ag/fati-simc,3145
+Street Tree List,Public Works, ,355,"List of dpw maintained street trees including: Planting date, species, and location",https://data.sfgov.org/Public-Works/Street-Tree-List/tkzw-k3nq,71890
+Paving PCI Scores,Public Works, ,98,Pavement Condition Index Rating Scores by location.,https://data.sfgov.org/Public-Works/Paving-PCI-Scores/5aye-4rtt,12810
+Utility Excavation and Paving Five Year Plan,Public Works, ,95,"this dataset is deprecated. please go to <a href=""https://data.sfgov.org/Public-Works/Envista-Projects-for-Utility-Excavation-and-Paving/sf93-6dmr"" rel=""nofollow external"">https://data.sfgov.org/Public-Works/Envista-Projects-for-Utility-Excavation-and-Paving/sf93-6dmr</a>",https://data.sfgov.org/Public-Works/Utility-Excavation-and-Paving-Five-Year-Plan/h25r-nbby,24149
+Capital Improvement Passthrough Petitions,Construction and Housing, ,66,"Capital Improvement Passthrough Petitions. A landlord may petition the Rent Board to pass through to tenants the costs of certain renovations to the property, which are considered capital improvements. A capital improvement is one that materially adds to the value of the property, appreciably prolongs its useful life, or adapts it to new uses, and which may be amortized over the useful life of the improvement of the building. Time Period: Jan 1, 2005 thru June 30, 2012.",https://data.sfgov.org/Construction-and-Housing-/Capital-Improvement-Passthrough-Petitions/vdez-ig2n,1343
+Operating and Maintenance Petitions,Construction and Housing, ,42,Operating and Maintenance petitions filed at the Rent Board from 1/1/2005 to 6/30/2012.,https://data.sfgov.org/Construction-and-Housing-/Operating-and-Maintenance-Petitions/4994-6s6a,190
+Bicycle Parking (Public),, ,"1,211","Updated on April 18, 2013. Updated every two to four weeks. Data includes all known bicycle parking that is free and available for public use regardless of who installed it.",https://data.sfgov.org/Transportation/Bicycle-Parking-Public-/w969-5mn4,3376
+San Francisco Pipeline Data Fourth Quarter 2012,Construction and Housing, ,73,"Snapshot of San Francisco Development Pipeline. Tracking of construction and entitlement activity based on data from Dept of Building Inspection&#x27;s Permit Tracking and the Planning Department&#x27;s Case Tracking enterprise databases, processed quarterly.",https://data.sfgov.org/Construction-and-Housing-/San-Francisco-Pipeline-Data-Fourth-Quarter-2012/b2bw-u33d,708
+SFO 2012 Data File Final Weighted Datasf,(none), ,31,,https://data.sfgov.org/dataset/SFO-2012-Data-File-Final-Weighted-Datasf/ckai-dve4,3521
+Campaign Finance - Filers With Unpaid Late Filing Fees,Ethics, ,29,"The campaign finance disclosure filers in the table below have not paid one or more late filing fees.  The filers listed below have not responded to two or more written notices and one or more verbal notices regarding late filing fees.  Filers posted to this list for not paying late filing fees are removed from this list after paying their late fees or four (4) years have elapsed since the Executive Directors final determination of the late fees (i.e., the date the late fees are assessed or the date the Executive Director makes a determination in response to a request for waiver, if any).
+In addition to being listed in the table below, filers whose late fees remain unpaid may be referred to the Bureau of Delinquent Revenues at the Treasurer and Tax Collectors Office.",https://data.sfgov.org/Ethics/Campaign-Finance-Filers-With-Unpaid-Late-Filing-Fe/mwws-zd4b,5
+Web_EOC_Data_Demo,(none), ,18,Service Request Data for Demonstration Purposes Only,https://data.sfgov.org/dataset/Web_EOC_Data_Demo/5ncs-7qzb,10
+Ethics Commission Enforcement Summaries,Ethics, ,26,Summaries of closed complaints within the Ethics Commission&#x27;s jurisdiction,https://data.sfgov.org/Ethics/Ethics-Commission-Enforcement-Summaries/yre9-mzkb,161
+Public Financing Report - Total Candidate Spending in 2012,Ethics, ,12,,https://data.sfgov.org/Ethics/Public-Financing-Report-Total-Candidate-Spending-i/h2wp-niyk,18
+Spending And Revenue,Administration and Finance, ,107,"CSV dataset supporting the Spending and Revenue report hosted in <a href=""http://openbook.sfgov.org"" rel=""nofollow external"">http://openbook.sfgov.org</a>. This shows spending and revenue (actual) since FY 2000.",https://data.sfgov.org/Administration-and-Finance/Spending-And-Revenue/bpnb-jwfb,52025
+Surface Mounted Facility Permits,Public Works, ,70,Surface Mounted Facility Permits in the public right of way both approved and requested,https://data.sfgov.org/Public-Works/Surface-Mounted-Facility-Permits/xu5w-5kgd,460
+Envista Projects for Utility Excavation and Paving,Public Works, ,82,Envista Projects for Utility Excavation and Paving.  Envista is used by city agencies and private utilities to coordinate utility and paving work in public right of way.,https://data.sfgov.org/Public-Works/Envista-Projects-for-Utility-Excavation-and-Paving/sf93-6dmr,28284
+Compensated Advocacy Ban Waivers,Ethics, ,5,"Under S.F. Campaign and Government Conduct Code section 3.224, no officer of the City and County shall directly or indirectly receive any form of compensation to communicate orally, in writing, or in any other manner on behalf of any other person with any other officer or employee of the City and County with the intent to influence a government decision.  The Ethics Commission may waive the prohibitions of this section for any member of a board or commission who, by law, must be appointed to represent any profession, trade, business, union or association.  The following waivers have been granted under section 3.224(c).",https://data.sfgov.org/Ethics/Compensated-Advocacy-Ban-Waivers/fa66-656n,9
+Supervisor District and ZIP Codes,, ,42,Lists intersecting Supervisor Districts and ZIP Codes for City and County of San Francisco,https://data.sfgov.org/Geography/Supervisor-District-and-ZIP-Codes/v22h-ujnv,75
+Meter Operating Schedules,Transportation, ,115,"Operating schedules and time limits for all meters owned by SFMTA and the Port of SF as of April 8, 2013. Tow periods and Alternate schedules trump all base Operating Schedules.",https://data.sfgov.org/Transportation/Meter-Operating-Schedules/bbgf-n7vn,71970
+Meter Rate Schedules,Transportation, ,41,"Meter rate schedules for all meters owned by SFMTA and the Port of SF as of April 8, 2013. Base rates describe the standard rate for parking at the meter. Overrides to the Base Rate apply on the given days at the given times. 
+
+Rates are subject to operating schedules, available here: <a href=""https://data.sfgov.org/Transportation/Meter-Operating-Schedules/bbgf-n7vn"" rel=""nofollow external"">https://data.sfgov.org/Transportation/Meter-Operating-Schedules/bbgf-n7vn</a>. When the time limit of a meter is 0 minutes, such as during Tow or Alternate Schedule - Passenger Loading, parking is not available and therefore meter rates do not apply.",https://data.sfgov.org/Transportation/Meter-Rate-Schedules/untr-ik2h,59877
+Board of Supervisors Aides,Organizations, ,12,"List of aides to the Board of Supervisors, includes areas of interest if specified.",https://data.sfgov.org/Organizations/Board-of-Supervisors-Aides/c9w8-qfpk,
+Zip Code to Supervisor Lookup with Contact Information,, ,33,"Lists intersecting Supervisor Districts and ZIP Codes for City and County of San Francisco, and provides contact information for the corresponding supervisor.",https://data.sfgov.org/Organizations/Zip-Code-to-Supervisor-Lookup-with-Contact-Informa/ujme-i5np,75
+Street Space Permits,Permitting, ,32,Street Space permits are generally issued for construction related work such as building construction activities or sidewalk repair work.,https://data.sfgov.org/Permitting/Street-Space-Permits/yvhc-cndm,1160
+Post- Employment Restriction Waivers,Ethics, ,7,"Under section 3.234(a)(1) of the San Francisco Campaign and Governmental Conduct Code, no former officer or employee of the City and County of San Francisco may make communications before any court or public agency in connection with any particular matter in which the City is a party or has a direct and substantial interest, in which the former officer or employee participated personally and substantially, and which involved specific parties at the time of such participation.  Under section 3.234(a)(2), no current or former officer or employee may, for one year after termination of service or employment, communicate with his or her former department to influence a government decision on behalf of any other person.  Under section 3.234(a)(3), no current or former officer or employee may be employed by or otherwise receive compensation from a person or entity that entered into a contract with the city within the past 12 months where the officer or employee personally and substantially participated in the award of the contract. 
+
+Under section 3.234(c)(1), the Ethics Commission may waive the restrictions in subsections (a)(1) and (a)(2) if the Commission determines that granting a waiver would not create the potential for undue influence or unfair advantage.  Under section 3.234(c)(2), the Commission may grant a waiver from the restrictions in subsections (a)(1) and (a)(2) for members of City boards and commissions who, by law, must be appointed to represent any profession, trade, business union or association.  Under section 3.234(c)(3), the Commission may waive the ban in subsection (a)(3) if the Commission determines that imposing the restriction would cause extreme hardship for the City officer or employee. This is a table of the waivers that have been granted under section 3.234(c).",https://data.sfgov.org/Ethics/Post-Employment-Restriction-Waivers/qwnt-35i6,14
+San Francisco Pipeline Map First Quarter 2013,Construction and Housing, ,16,"Snapshot of San Francisco Development Pipeline. Tracking of construction and entitlement activity based on data from Dept of Building Inspection&amp;#x27;s Permit Tracking and the Planning Department&amp;#x27;s Case Tracking enterprise databases, processed quarterly.",https://data.sfgov.org/Construction-and-Housing-/San-Francisco-Pipeline-Map-First-Quarter-2013/bime-puj8,775
