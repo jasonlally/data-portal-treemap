@@ -5,85 +5,85 @@
          "name":"Administration and Finance",
          "children":[
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/Adopted-Budgets-for-two-years-ending-FY-2011-12/kwhy-qvcu",
+               "url":"https://data.sfgov.org/Administration-and-Finance/Adopted-Budgets-for-two-years-ending-FY-2011-12/kwhy-qvcu",
                "name":"Adopted Budgets for two years ending FY 2011-12",
                "value":15547,
                "log":9.651623
             },
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/Job-Titles-by-Classification/58un-vqfs",
+               "url":"https://data.sfgov.org/Administration-and-Finance/Job-Titles-by-Classification/58un-vqfs",
                "name":"Job Titles by Classification",
                "value":1005,
                "log":6.9127426
             },
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/Salary-Ranges-by-Job-Classification/7h4w-reyq",
+               "url":"https://data.sfgov.org/Administration-and-Finance/Salary-Ranges-by-Job-Classification/7h4w-reyq",
                "name":"Salary Ranges by Job Classification",
                "value":1356,
                "log":7.2122946
             },
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/Employee-Count-by-Department-and-Union/x6f8-ccnf",
+               "url":"https://data.sfgov.org/Administration-and-Finance/Employee-Count-by-Department-and-Union/x6f8-ccnf",
                "name":"Employee Count by Department and Union",
                "value":440,
                "log":6.086775
             },
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/City-Fleet-Inventory/di45-g5x5",
+               "url":"https://data.sfgov.org/Administration-and-Finance/City-Fleet-Inventory/di45-g5x5",
                "name":"City Fleet Inventory",
                "value":22,
                "log":3.0910425
             },
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/OCA-Term-Contracts/x8wt-z8r5",
+               "url":"https://data.sfgov.org/Administration-and-Finance/OCA-Term-Contracts/x8wt-z8r5",
                "name":"OCA Term Contracts",
                "value":203,
                "log":5.313206
             },
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/Employees-by-Major-Service-Area-FY05-FY09/b2fk-avft",
+               "url":"https://data.sfgov.org/Administration-and-Finance/Employees-by-Major-Service-Area-FY05-FY09/b2fk-avft",
                "name":"Employees by Major Service Area, FY05 - FY09",
                "value":7,
                "log":1.9459101
             },
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/Employees-by-Department-FY05-FY09/279u-38ce",
+               "url":"https://data.sfgov.org/Administration-and-Finance/Employees-by-Department-FY05-FY09/279u-38ce",
                "name":"Employees by Department, FY05 - FY09",
                "value":50,
                "log":3.912023
             },
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/New-Hires-by-Major-Service-Area-FY05-FY09/nbpi-er33",
+               "url":"https://data.sfgov.org/Administration-and-Finance/New-Hires-by-Major-Service-Area-FY05-FY09/nbpi-er33",
                "name":"New Hires by Major Service Area, FY05 - FY09",
                "value":7,
                "log":1.9459101
             },
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/New-Hires-By-Department-FY05-Fy09/bbc5-zx5i",
+               "url":"https://data.sfgov.org/Administration-and-Finance/New-Hires-By-Department-FY05-Fy09/bbc5-zx5i",
                "name":"New Hires By Department FY05-Fy09",
                "value":50,
                "log":3.912023
             },
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/FY-2008-09-And-FY-2009-10-Budget/vcgk-qeuz",
+               "url":"https://data.sfgov.org/Administration-and-Finance/FY-2008-09-And-FY-2009-10-Budget/vcgk-qeuz",
                "name":"FY 2008-09 And FY 2009-10 Budget",
                "value":15179,
                "log":9.627668
             },
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/Adopted-Position-Budgets-for-two-years-ending-FY-2/pqai-92ru",
+               "url":"https://data.sfgov.org/Administration-and-Finance/Adopted-Position-Budgets-for-two-years-ending-FY-2/pqai-92ru",
                "name":"Adopted Position Budgets for two years ending FY 2009-10",
                "value":18222,
                "log":9.810385
             },
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/Adopted-Position-Budgets-for-two-years-ending-FY-2/yh2t-xawu",
+               "url":"https://data.sfgov.org/Administration-and-Finance/Adopted-Position-Budgets-for-two-years-ending-FY-2/yh2t-xawu",
                "name":"Adopted Position Budgets for two years ending FY 2010-11",
                "value":17634,
                "log":9.777584
             },
             {
-               "link":"https://data.sfgov.org/Administration-and-Finance/Spending-And-Revenue/bpnb-jwfb",
+               "url":"https://data.sfgov.org/Administration-and-Finance/Spending-And-Revenue/bpnb-jwfb",
                "name":"Spending And Revenue",
                "value":52025,
                "log":10.85948
@@ -94,13 +94,13 @@
          "name":"Service Requests 311 ",
          "children":[
             {
-               "link":"https://data.sfgov.org/Service-Requests-311-/Case-Data-from-San-Francisco-311/vw6y-z8j6",
+               "url":"https://data.sfgov.org/Service-Requests-311-/Case-Data-from-San-Francisco-311/vw6y-z8j6",
                "name":"Case Data from San Francisco 311",
                "value":783562,
                "log":13.571606
             },
             {
-               "link":"https://data.sfgov.org/Service-Requests-311-/Cases-By-Channel/y3n8-uk7h",
+               "url":"https://data.sfgov.org/Service-Requests-311-/Cases-By-Channel/y3n8-uk7h",
                "name":"Cases By Channel",
                "value":75,
                "log":4.317488
@@ -111,13 +111,13 @@
          "name":"Arts Culture and Recreation ",
          "children":[
             {
-               "link":"https://data.sfgov.org/Arts-Culture-and-Recreation-/SF-Civic-Art-Collection/zfw6-95su",
+               "url":"https://data.sfgov.org/Arts-Culture-and-Recreation-/SF-Civic-Art-Collection/zfw6-95su",
                "name":"SF Civic Art Collection",
                "value":692,
                "log":6.539586
             },
             {
-               "link":"https://data.sfgov.org/Arts-Culture-and-Recreation-/Film-Locations-in-San-Francisco/yitu-d5am",
+               "url":"https://data.sfgov.org/Arts-Culture-and-Recreation-/Film-Locations-in-San-Francisco/yitu-d5am",
                "name":"Film Locations in San Francisco",
                "value":890,
                "log":6.7912216
@@ -128,25 +128,25 @@
          "name":"Business and Economic Development",
          "children":[
             {
-               "link":"https://data.sfgov.org/Business-and-Economic-Development/Equal-Benefits-Compliant-Vendors/pbek-bym4",
+               "url":"https://data.sfgov.org/Business-and-Economic-Development/Equal-Benefits-Compliant-Vendors/pbek-bym4",
                "name":"Equal Benefits Compliant Vendors",
                "value":13968,
                "log":9.544524
             },
             {
-               "link":"https://data.sfgov.org/Business-and-Economic-Development/Delegated-Departmental-Purchases-by-City-Agency-Pr/4q92-gm9f",
+               "url":"https://data.sfgov.org/Business-and-Economic-Development/Delegated-Departmental-Purchases-by-City-Agency-Pr/4q92-gm9f",
                "name":"Delegated Departmental Purchases by City Agency (Prop Q Purchases) Jan- Jun-2010",
                "value":11498,
                "log":9.349929
             },
             {
-               "link":"https://data.sfgov.org/Business-and-Economic-Development/Local-Business-Enterprise-Directory/s57h-9wm9",
+               "url":"https://data.sfgov.org/Business-and-Economic-Development/Local-Business-Enterprise-Directory/s57h-9wm9",
                "name":"Local Business Enterprise Directory",
                "value":1384,
                "log":7.2327332
             },
             {
-               "link":"https://data.sfgov.org/Business-and-Economic-Development/Businesses-Registered-in-San-Francisco-Active/funx-qxxn",
+               "url":"https://data.sfgov.org/Business-and-Economic-Development/Businesses-Registered-in-San-Francisco-Active/funx-qxxn",
                "name":"Businesses Registered in San Francisco - Active",
                "value":165493,
                "log":12.016685
@@ -157,19 +157,19 @@
          "name":"Social Services",
          "children":[
             {
-               "link":"https://data.sfgov.org/Social-Services/Applications-for-Food-Stamps-and-Medi-Cal/6s43-5fue",
+               "url":"https://data.sfgov.org/Social-Services/Applications-for-Food-Stamps-and-Medi-Cal/6s43-5fue",
                "name":"Applications for Food Stamps and Medi-Cal",
                "value":39,
                "log":3.6635616
             },
             {
-               "link":"https://data.sfgov.org/Social-Services/DAAS-Intake-Monthly/2mup-97dm",
+               "url":"https://data.sfgov.org/Social-Services/DAAS-Intake-Monthly/2mup-97dm",
                "name":"DAAS Intake Monthly",
                "value":881,
                "log":6.781058
             },
             {
-               "link":"https://data.sfgov.org/Social-Services/HSA-Operator-Monthly/vetw-r4zk",
+               "url":"https://data.sfgov.org/Social-Services/HSA-Operator-Monthly/vetw-r4zk",
                "name":"HSA Operator Monthly",
                "value":51,
                "log":3.9318256
@@ -180,7 +180,7 @@
          "name":"Government",
          "children":[
             {
-               "link":"https://data.sfgov.org/Government/Full-Time-Employees-By-Job-Classification/uk3k-9ai5",
+               "url":"https://data.sfgov.org/Government/Full-Time-Employees-By-Job-Classification/uk3k-9ai5",
                "name":"Full Time Employees By Job Classification",
                "value":2986,
                "log":8.00169
@@ -191,7 +191,7 @@
          "name":"Community",
          "children":[
             {
-               "link":"https://data.sfgov.org/Community/Community-Challenge-Grants/nddu-z4m8",
+               "url":"https://data.sfgov.org/Community/Community-Challenge-Grants/nddu-z4m8",
                "name":"Community Challenge Grants",
                "value":123,
                "log":4.8121843
@@ -202,13 +202,13 @@
          "name":"Parks and Recreation",
          "children":[
             {
-               "link":"https://data.sfgov.org/Parks-and-Recreation/Recreation-Park-Department-Park-Info-Dataset/z76i-7s65",
+               "url":"https://data.sfgov.org/Parks-and-Recreation/Recreation-Park-Department-Park-Info-Dataset/z76i-7s65",
                "name":"Recreation & Park Department Park Info Dataset",
                "value":230,
                "log":5.4380794
             },
             {
-               "link":"https://data.sfgov.org/Parks-and-Recreation/Recreation-and-Park-Department-Park-Evaluation-Sco/yq9f-qesf",
+               "url":"https://data.sfgov.org/Parks-and-Recreation/Recreation-and-Park-Department-Park-Evaluation-Sco/yq9f-qesf",
                "name":"Recreation and Park Department Park Evaluation Scores",
                "value":2970,
                "log":7.9963174
@@ -219,61 +219,61 @@
          "name":"Public Works",
          "children":[
             {
-               "link":"https://data.sfgov.org/Public-Works/Latest-Street-and-Sidewalk-Inspection-Results-Data/n9a3-93rk",
+               "url":"https://data.sfgov.org/Public-Works/Latest-Street-and-Sidewalk-Inspection-Results-Data/n9a3-93rk",
                "name":"Latest Street and Sidewalk Inspection Results Data Since FY07",
                "value":1381,
                "log":7.230563
             },
             {
-               "link":"https://data.sfgov.org/Public-Works/Utility-Excavation-Moratorium-Streets/5wbp-dwzt",
+               "url":"https://data.sfgov.org/Public-Works/Utility-Excavation-Moratorium-Streets/5wbp-dwzt",
                "name":"Utility Excavation Moratorium Streets",
                "value":3884,
                "log":8.264621
             },
             {
-               "link":"https://data.sfgov.org/Public-Works/Curb-Ramps/ch9w-7kih",
+               "url":"https://data.sfgov.org/Public-Works/Curb-Ramps/ch9w-7kih",
                "name":"Curb Ramps",
                "value":24460,
                "log":10.1047945
             },
             {
-               "link":"https://data.sfgov.org/Public-Works/Street-Names/6d9h-4u5v",
+               "url":"https://data.sfgov.org/Public-Works/Street-Names/6d9h-4u5v",
                "name":"Street Names",
                "value":2646,
                "log":7.8808045
             },
             {
-               "link":"https://data.sfgov.org/Public-Works/List-of-Blocks-Where-DPW-Has-a-Tree-Maintenance-Ag/fati-simc",
+               "url":"https://data.sfgov.org/Public-Works/List-of-Blocks-Where-DPW-Has-a-Tree-Maintenance-Ag/fati-simc",
                "name":"List of Blocks Where DPW Has a Tree Maintenance Agreement",
                "value":3145,
                "log":8.053569
             },
             {
-               "link":"https://data.sfgov.org/Public-Works/Street-Tree-List/tkzw-k3nq",
+               "url":"https://data.sfgov.org/Public-Works/Street-Tree-List/tkzw-k3nq",
                "name":"Street Tree List",
                "value":71890,
                "log":11.182893
             },
             {
-               "link":"https://data.sfgov.org/Public-Works/Paving-PCI-Scores/5aye-4rtt",
+               "url":"https://data.sfgov.org/Public-Works/Paving-PCI-Scores/5aye-4rtt",
                "name":"Paving PCI Scores",
                "value":12810,
                "log":9.457981
             },
             {
-               "link":"https://data.sfgov.org/Public-Works/Utility-Excavation-and-Paving-Five-Year-Plan/h25r-nbby",
+               "url":"https://data.sfgov.org/Public-Works/Utility-Excavation-and-Paving-Five-Year-Plan/h25r-nbby",
                "name":"Utility Excavation and Paving Five Year Plan",
                "value":24149,
                "log":10.091998
             },
             {
-               "link":"https://data.sfgov.org/Public-Works/Surface-Mounted-Facility-Permits/xu5w-5kgd",
+               "url":"https://data.sfgov.org/Public-Works/Surface-Mounted-Facility-Permits/xu5w-5kgd",
                "name":"Surface Mounted Facility Permits",
                "value":460,
                "log":6.1312265
             },
             {
-               "link":"https://data.sfgov.org/Public-Works/Envista-Projects-for-Utility-Excavation-and-Paving/sf93-6dmr",
+               "url":"https://data.sfgov.org/Public-Works/Envista-Projects-for-Utility-Excavation-and-Paving/sf93-6dmr",
                "name":"Envista Projects for Utility Excavation and Paving",
                "value":28284,
                "log":10.2500515
@@ -284,7 +284,7 @@
          "name":"Facilities and Structures",
          "children":[
             {
-               "link":"https://data.sfgov.org/Facilities-and-Structures/Updated-Treasure-Island-Addresses-and-Building-Num/4e5w-uszz",
+               "url":"https://data.sfgov.org/Facilities-and-Structures/Updated-Treasure-Island-Addresses-and-Building-Num/4e5w-uszz",
                "name":"Updated Treasure Island Addresses and Building Numbers",
                "value":718,
                "log":6.5764694
@@ -295,31 +295,31 @@
          "name":"Public Safety",
          "children":[
             {
-               "link":"https://data.sfgov.org/Public-Safety/Office-of-Citizen-Complaints-Complainants-by-Race-/zpxx-ap9z",
+               "url":"https://data.sfgov.org/Public-Safety/Office-of-Citizen-Complaints-Complainants-by-Race-/zpxx-ap9z",
                "name":"Office of Citizen Complaints Complainants by Race/Ethnicity - 2004-9",
                "value":7,
                "log":1.9459101
             },
             {
-               "link":"https://data.sfgov.org/Public-Safety/OCC-Complainants-by-Age-2004-9/zymh-n86t",
+               "url":"https://data.sfgov.org/Public-Safety/OCC-Complainants-by-Age-2004-9/zymh-n86t",
                "name":"OCC Complainants by Age - 2004-9",
                "value":11,
                "log":2.3978953
             },
             {
-               "link":"https://data.sfgov.org/Public-Safety/OCC-Caseload-Disposition-Summary-1993-2009/y9kc-6q3x",
+               "url":"https://data.sfgov.org/Public-Safety/OCC-Caseload-Disposition-Summary-1993-2009/y9kc-6q3x",
                "name":"OCC Caseload/Disposition Summary - 1993-2009",
                "value":4,
                "log":1.3862944
             },
             {
-               "link":"https://data.sfgov.org/Public-Safety/Safety-New-Hires-By-Department-FY05-FY09/tdf3-f8kb",
+               "url":"https://data.sfgov.org/Public-Safety/Safety-New-Hires-By-Department-FY05-FY09/tdf3-f8kb",
                "name":"Safety New Hires By Department FY05-FY09",
                "value":9,
                "log":2.1972246
             },
             {
-               "link":"https://data.sfgov.org/Public-Safety/SFPD-Incidents-Previous-Three-Months/tmnf-yvry",
+               "url":"https://data.sfgov.org/Public-Safety/SFPD-Incidents-Previous-Three-Months/tmnf-yvry",
                "name":"SFPD Incidents - Previous Three Months",
                "value":30366,
                "log":10.321079
@@ -330,19 +330,19 @@
          "name":"Other",
          "children":[
             {
-               "link":"https://data.sfgov.org/Other/List-of-Historical-Ballot-Measures/xzie-ixjw",
+               "url":"https://data.sfgov.org/Other/List-of-Historical-Ballot-Measures/xzie-ixjw",
                "name":"List of Historical Ballot Measures",
                "value":982,
                "log":6.889591
             },
             {
-               "link":"https://data.sfgov.org/Other/Landlord-Utility-Passthroughs/5ayi-he6v",
+               "url":"https://data.sfgov.org/Other/Landlord-Utility-Passthroughs/5ayi-he6v",
                "name":"Landlord Utility Passthroughs",
                "value":1824,
                "log":7.508787
             },
             {
-               "link":"https://data.sfgov.org/Other/Data-Catalog/h4ui-ubbu",
+               "url":"https://data.sfgov.org/Other/Data-Catalog/h4ui-ubbu",
                "name":"Data Catalog",
                "value":610,
                "log":6.413459
@@ -353,19 +353,19 @@
          "name":"None",
          "children":[
             {
-               "link":"https://data.sfgov.org/dataset/FY-2009-10-And-FY-2010-11-Budget/3sqv-mqe9",
+               "url":"https://data.sfgov.org/dataset/FY-2009-10-And-FY-2010-11-Budget/3sqv-mqe9",
                "name":"FY 2009-10 And FY 2010-11 Budget",
                "value":15003,
                "log":9.616006
             },
             {
-               "link":"https://data.sfgov.org/dataset/SFO-2012-Data-File-Final-Weighted-Datasf/ckai-dve4",
+               "url":"https://data.sfgov.org/dataset/SFO-2012-Data-File-Final-Weighted-Datasf/ckai-dve4",
                "name":"SFO 2012 Data File Final Weighted Datasf",
                "value":3521,
                "log":8.1665
             },
             {
-               "link":"https://data.sfgov.org/dataset/Web_EOC_Data_Demo/5ncs-7qzb",
+               "url":"https://data.sfgov.org/dataset/Web_EOC_Data_Demo/5ncs-7qzb",
                "name":"Web_EOC_Data_Demo",
                "value":10,
                "log":2.3025851
@@ -376,49 +376,49 @@
          "name":"Transportation",
          "children":[
             {
-               "link":"https://data.sfgov.org/Transportation/SFO-2011-Customer-Survey-Data-Set/v94x-pf9r",
+               "url":"https://data.sfgov.org/Transportation/SFO-2011-Customer-Survey-Data-Set/v94x-pf9r",
                "name":"SFO 2011 Customer Survey Data Set",
                "value":3872,
                "log":8.261526
             },
             {
-               "link":"https://data.sfgov.org/Transportation/Parking-meters/7egw-qt89",
+               "url":"https://data.sfgov.org/Transportation/Parking-meters/7egw-qt89",
                "name":"Parking meters",
                "value":29253,
                "log":10.283737
             },
             {
-               "link":"https://data.sfgov.org/Transportation/Disabled-Parking/wc6f-brai",
+               "url":"https://data.sfgov.org/Transportation/Disabled-Parking/wc6f-brai",
                "name":"Disabled Parking",
                "value":733,
                "log":6.5971456
             },
             {
-               "link":"https://data.sfgov.org/Transportation/Off-Street-parking-lots-and-parking-garages/uupn-yfaw",
+               "url":"https://data.sfgov.org/Transportation/Off-Street-parking-lots-and-parking-garages/uupn-yfaw",
                "name":"Off-Street parking lots and parking garages",
                "value":1396,
                "log":7.2413664
             },
             {
-               "link":"https://data.sfgov.org/Transportation/Metered-motorcycle-spaces/uf55-k7py",
+               "url":"https://data.sfgov.org/Transportation/Metered-motorcycle-spaces/uf55-k7py",
                "name":"Metered motorcycle spaces",
                "value":2273,
                "log":7.7288556
             },
             {
-               "link":"https://data.sfgov.org/Transportation/Bicycle-Parking-Public-/w969-5mn4",
+               "url":"https://data.sfgov.org/Transportation/Bicycle-Parking-Public-/w969-5mn4",
                "name":"Bicycle Parking (Public)",
                "value":3376,
                "log":8.124447
             },
             {
-               "link":"https://data.sfgov.org/Transportation/Meter-Operating-Schedules/bbgf-n7vn",
+               "url":"https://data.sfgov.org/Transportation/Meter-Operating-Schedules/bbgf-n7vn",
                "name":"Meter Operating Schedules",
                "value":71970,
                "log":11.184005
             },
             {
-               "link":"https://data.sfgov.org/Transportation/Meter-Rate-Schedules/untr-ik2h",
+               "url":"https://data.sfgov.org/Transportation/Meter-Rate-Schedules/untr-ik2h",
                "name":"Meter Rate Schedules",
                "value":59877,
                "log":11.000048
@@ -429,241 +429,241 @@
          "name":"Ethics",
          "children":[
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-Summary-Financial-Data-for-Commit/csud-q746",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-Summary-Financial-Data-for-Commit/csud-q746",
                "name":"Campaign Finance - Summary Financial Data for Committees Controlled by Candidates for Mayor - November 8, 2011 Election",
                "value":2555,
                "log":7.8458076
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-Summary-of-Third-Party-Disclosure/6xiy-xib3",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-Summary-of-Third-Party-Disclosure/6xiy-xib3",
                "name":"Campaign Finance - Summary of Third Party Disclosure Forms Regarding San Francisco Candidates - November 8, 2011 Election",
                "value":229,
                "log":5.433722
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-Filers-With-Delinquent-Campaign-F/jb8g-e374",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-Filers-With-Delinquent-Campaign-F/jb8g-e374",
                "name":"Campaign Finance - Filers With Delinquent Campaign Filings",
                "value":39,
                "log":3.6635616
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-Data-Key/wygs-cc76",
                "name":"Campaign Finance - Data Key",
                "value":945,
                "log":6.851185
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Lobbyist-Directory/exbu-si57",
+               "url":"https://data.sfgov.org/Ethics/Lobbyist-Directory/exbu-si57",
                "name":"Lobbyist Directory",
                "value":117,
                "log":4.762174
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Lobbyist-Client-Directory/u4y3-k4vs",
+               "url":"https://data.sfgov.org/Ethics/Lobbyist-Client-Directory/u4y3-k4vs",
                "name":"Lobbyist Client Directory",
                "value":944,
                "log":6.8501263
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Lobbyist-Activity-Activity-Expenses/rvdt-bv57",
+               "url":"https://data.sfgov.org/Ethics/Lobbyist-Activity-Activity-Expenses/rvdt-bv57",
                "name":"Lobbyist Activity - Activity Expenses",
                "value":4,
                "log":1.3862944
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Lobbyist-Activity-Political-Contributions/sa8r-purn",
+               "url":"https://data.sfgov.org/Ethics/Lobbyist-Activity-Political-Contributions/sa8r-purn",
                "name":"Lobbyist Activity - Political Contributions",
                "value":492,
                "log":6.1984787
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Lobbyist-Activity-Contacts-of-Public-Officials/hr5m-xnxc",
+               "url":"https://data.sfgov.org/Ethics/Lobbyist-Activity-Contacts-of-Public-Officials/hr5m-xnxc",
                "name":"Lobbyist Activity - Contacts of Public Officials",
                "value":4709,
                "log":8.457231
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Lobbyist-Activity-Payments-Promised-By-Clients/s2fy-y3my",
+               "url":"https://data.sfgov.org/Ethics/Lobbyist-Activity-Payments-Promised-By-Clients/s2fy-y3my",
                "name":"Lobbyist Activity - Payments Promised By Clients",
                "value":4116,
                "log":8.322638
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-496-Late-Independent-Ex/4fd4-wqps",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-496-Late-Independent-Ex/4fd4-wqps",
                "name":"Campaign Finance - FPPC Form 496 - Late Independent Expenditure Report - Independent Expenditures Made",
                "value":726,
                "log":6.58755
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-497-Late-Contribution-R/xdap-cuq4",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-497-Late-Contribution-R/xdap-cuq4",
                "name":"Campaign Finance - FPPC Form 497 - Late Contribution Report - Late Contributions Made",
                "value":917,
                "log":6.8211074
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-B1-Loans-R/4phr-3hrm",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-B1-Loans-R/4phr-3hrm",
                "name":"Campaign Finance - FPPC Form 460 - Schedule B1 - Loans Received",
                "value":3268,
                "log":8.091933
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-A-Monetary/q66q-d2tr",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-A-Monetary/q66q-d2tr",
                "name":"Campaign Finance - FPPC Form 460 - Schedule A - Monetary Contributions",
                "value":252238,
                "log":12.438128
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-B2-Loan-Gu/ec3y-6ty9",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-B2-Loan-Gu/ec3y-6ty9",
                "name":"Campaign Finance - FPPC Form 460 - Schedule B2 - Loan Guarantors",
                "value":38,
                "log":3.637586
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-C-Non-Mone/k76b-4yme",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-C-Non-Mone/k76b-4yme",
                "name":"Campaign Finance - FPPC Form 460 - Schedule C - Non-Monetary Contributions",
                "value":4154,
                "log":8.331827
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-D-Summary-/i8us-xn7t",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-D-Summary-/i8us-xn7t",
                "name":"Campaign Finance - FPPC Form 460 - Schedule D - Summary of Expenditures Supporting/Opposing Other Candidates, Measures and Committees",
                "value":9129,
                "log":9.119211
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-E-Payments/hc26-j9if",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-E-Payments/hc26-j9if",
                "name":"Campaign Finance - FPPC Form 460 - Schedule E - Payments Made",
                "value":71308,
                "log":11.174764
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-461-Major-Donor-and-Ind/86nq-bynj",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-461-Major-Donor-and-Ind/86nq-bynj",
                "name":"Campaign Finance - FPPC Form 461 - Major Donor and Independent Expenditure Committee Statement - Part 5 - Contributions (Including Loans, Forgiveness of Loans, and Loan Guarantees) and Expenditures Made",
                "value":735,
                "log":6.5998707
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-465-Supplemental-Indepe/pyxa-3r7p",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-465-Supplemental-Indepe/pyxa-3r7p",
                "name":"Campaign Finance - FPPC Form 465 - Supplemental Independent Expenditure Report - Part 3 - Independent Expenditures Made",
                "value":4941,
                "log":8.505323
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-F-Accrued-/tr8k-7cit",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-F-Accrued-/tr8k-7cit",
                "name":"Campaign Finance - FPPC Form 460 - Schedule F - Accrued Expenses (Unpaid Bills)",
                "value":17536,
                "log":9.772011
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-G-Payments/6iqh-u3hk",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-G-Payments/6iqh-u3hk",
                "name":"Campaign Finance - FPPC Form 460 - Schedule G - Payments Made by an Agent or Independent Contractor",
                "value":14160,
                "log":9.558176
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-H-Loans-Ma/62ex-d3qk",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-H-Loans-Ma/62ex-d3qk",
                "name":"Campaign Finance - FPPC Form 460 - Schedule H - Loans Made to Others",
                "value":313,
                "log":5.7462034
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-I-Miscella/6ssu-ewuc",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Schedule-I-Miscella/6ssu-ewuc",
                "name":"Campaign Finance - FPPC Form 460 - Schedule I - Miscellaneous Increases to Cash",
                "value":2304,
                "log":7.742402
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Summary-Totals/4tts-fyix",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-460-Summary-Totals/4tts-fyix",
                "name":"Campaign Finance - FPPC Form 460 - Summary Totals",
                "value":279398,
                "log":12.540393
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/85cd-6rtn",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-Individual-Expenditure-Ceilings-I/85cd-6rtn",
                "name":"Campaign Finance - Individual Expenditure Ceilings (IECs) - November 6, 2012 Election",
                "value":111,
                "log":4.7095304
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-Public-Funds-Disbursed-November-6/7x5u-tf83",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-Public-Funds-Disbursed-November-6/7x5u-tf83",
                "name":"Campaign Finance - Public Funds Disbursed - November 6, 2012 Election",
                "value":67,
                "log":4.204693
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-Summary-of-Third-Party-Disclosure/n84t-vfnk",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-Summary-of-Third-Party-Disclosure/n84t-vfnk",
                "name":"Campaign Finance - Summary of Third Party Disclosure Forms Regarding San Francisco Candidates - November 6, 2012",
                "value":151,
                "log":5.0172796
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-496-Late-Independent-Ex/p4sp-es3b",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-FPPC-Form-496-Late-Independent-Ex/p4sp-es3b",
                "name":"Campaign Finance - FPPC Form 496 - Late Independent Expenditure Report - Part 3 - Contributions of $100 or More Received",
                "value":1305,
                "log":7.1739583
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-Total-Expenditures-By-Candidate-C/8fqb-pfp6",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-Total-Expenditures-By-Candidate-C/8fqb-pfp6",
                "name":"Campaign Finance - Total Expenditures By Candidate Controlled Committees for Board of Supervisors as of the 6-30-2012 Campaign Finance Deadline - November 6 2012 Election",
                "value":17,
                "log":2.8332133
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Consultants-List-of-Registered-Campaign-C/wchi-36a5",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Consultants-List-of-Registered-Campaign-C/wchi-36a5",
                "name":"Campaign Consultants - List of Registered Campaign Consultants and their Respective Clients",
                "value":27,
                "log":3.295837
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-List-of-Candidates-Running-for-Of/npcx-9w98",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-List-of-Candidates-Running-for-Of/npcx-9w98",
                "name":"Campaign Finance - List of Candidates Running for Office in November 2012 who have Accepted the Voluntary Expenditure Ceiling",
                "value":10,
                "log":2.3025851
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-Status-of-Voluntary-Expenditure-C/bmnx-cibx",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-Status-of-Voluntary-Expenditure-C/bmnx-cibx",
                "name":"Campaign Finance - Status of Voluntary Expenditure Ceiling (VECs) in November 6, 2012 Election",
                "value":2,
                "log":0.6931472
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Lobbyist-Data-Name-Mapping/u89s-bsxm",
+               "url":"https://data.sfgov.org/Ethics/Lobbyist-Data-Name-Mapping/u89s-bsxm",
                "name":"Lobbyist Data Name Mapping",
                "value":45,
                "log":3.8066626
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-SFEC-1-126-Notification-of-Contra/sn2k-q974",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-SFEC-1-126-Notification-of-Contra/sn2k-q974",
                "name":"Campaign Finance - SFEC 1.126 Notification of Contract Approval Filings",
                "value":1811,
                "log":7.5016346
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Campaign-Finance-Filers-With-Unpaid-Late-Filing-Fe/mwws-zd4b",
+               "url":"https://data.sfgov.org/Ethics/Campaign-Finance-Filers-With-Unpaid-Late-Filing-Fe/mwws-zd4b",
                "name":"Campaign Finance - Filers With Unpaid Late Filing Fees",
                "value":5,
                "log":1.609438
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Ethics-Commission-Enforcement-Summaries/yre9-mzkb",
+               "url":"https://data.sfgov.org/Ethics/Ethics-Commission-Enforcement-Summaries/yre9-mzkb",
                "name":"Ethics Commission Enforcement Summaries",
                "value":161,
                "log":5.081404
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Public-Financing-Report-Total-Candidate-Spending-i/h2wp-niyk",
+               "url":"https://data.sfgov.org/Ethics/Public-Financing-Report-Total-Candidate-Spending-i/h2wp-niyk",
                "name":"Public Financing Report - Total Candidate Spending in 2012",
                "value":18,
                "log":2.8903718
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Compensated-Advocacy-Ban-Waivers/fa66-656n",
+               "url":"https://data.sfgov.org/Ethics/Compensated-Advocacy-Ban-Waivers/fa66-656n",
                "name":"Compensated Advocacy Ban Waivers",
                "value":9,
                "log":2.1972246
             },
             {
-               "link":"https://data.sfgov.org/Ethics/Post-Employment-Restriction-Waivers/qwnt-35i6",
+               "url":"https://data.sfgov.org/Ethics/Post-Employment-Restriction-Waivers/qwnt-35i6",
                "name":"Post- Employment Restriction Waivers",
                "value":14,
                "log":2.6390574
@@ -674,37 +674,37 @@
          "name":"Construction and Housing ",
          "children":[
             {
-               "link":"https://data.sfgov.org/Construction-and-Housing-/San-Francisco-Development-Pipeline/v5p2-emnu",
+               "url":"https://data.sfgov.org/Construction-and-Housing-/San-Francisco-Development-Pipeline/v5p2-emnu",
                "name":"San Francisco Development Pipeline",
                "value":744,
                "log":6.612041
             },
             {
-               "link":"https://data.sfgov.org/Construction-and-Housing-/Pipeline-Q2-2012/ugxk-ztb8",
+               "url":"https://data.sfgov.org/Construction-and-Housing-/Pipeline-Q2-2012/ugxk-ztb8",
                "name":"Pipeline Q2 2012",
                "value":740,
                "log":6.6066504
             },
             {
-               "link":"https://data.sfgov.org/Construction-and-Housing-/Capital-Improvement-Passthrough-Petitions/vdez-ig2n",
+               "url":"https://data.sfgov.org/Construction-and-Housing-/Capital-Improvement-Passthrough-Petitions/vdez-ig2n",
                "name":"Capital Improvement Passthrough Petitions",
                "value":1343,
                "log":7.202661
             },
             {
-               "link":"https://data.sfgov.org/Construction-and-Housing-/Operating-and-Maintenance-Petitions/4994-6s6a",
+               "url":"https://data.sfgov.org/Construction-and-Housing-/Operating-and-Maintenance-Petitions/4994-6s6a",
                "name":"Operating and Maintenance Petitions",
                "value":190,
                "log":5.247024
             },
             {
-               "link":"https://data.sfgov.org/Construction-and-Housing-/San-Francisco-Pipeline-Data-Fourth-Quarter-2012/b2bw-u33d",
+               "url":"https://data.sfgov.org/Construction-and-Housing-/San-Francisco-Pipeline-Data-Fourth-Quarter-2012/b2bw-u33d",
                "name":"San Francisco Pipeline Data Fourth Quarter 2012",
                "value":708,
                "log":6.562444
             },
             {
-               "link":"https://data.sfgov.org/Construction-and-Housing-/San-Francisco-Pipeline-Map-First-Quarter-2013/bime-puj8",
+               "url":"https://data.sfgov.org/Construction-and-Housing-/San-Francisco-Pipeline-Map-First-Quarter-2013/bime-puj8",
                "name":"San Francisco Pipeline Map First Quarter 2013",
                "value":775,
                "log":6.652863
@@ -715,13 +715,13 @@
          "name":"Geography",
          "children":[
             {
-               "link":"https://data.sfgov.org/Geography/SFGIS-Data-Catalog-Internal/udj9-yye5",
+               "url":"https://data.sfgov.org/Geography/SFGIS-Data-Catalog-Internal/udj9-yye5",
                "name":"SFGIS Data Catalog - Internal",
                "value":116,
                "log":4.75359
             },
             {
-               "link":"https://data.sfgov.org/Geography/Supervisor-District-and-ZIP-Codes/v22h-ujnv",
+               "url":"https://data.sfgov.org/Geography/Supervisor-District-and-ZIP-Codes/v22h-ujnv",
                "name":"Supervisor District and ZIP Codes",
                "value":75,
                "log":4.317488
@@ -732,55 +732,55 @@
          "name":"Permitting",
          "children":[
             {
-               "link":"https://data.sfgov.org/Permitting/Mobile-Food-Schedule/jjew-r69b",
+               "url":"https://data.sfgov.org/Permitting/Mobile-Food-Schedule/jjew-r69b",
                "name":"Mobile Food Schedule",
                "value":56193,
                "log":10.936547
             },
             {
-               "link":"https://data.sfgov.org/Permitting/Mobile-Food-Facility-Permit/rqzj-sfat",
+               "url":"https://data.sfgov.org/Permitting/Mobile-Food-Facility-Permit/rqzj-sfat",
                "name":"Mobile Food Facility Permit",
                "value":717,
                "log":6.5750756
             },
             {
-               "link":"https://data.sfgov.org/Permitting/Street-Use-Permits/b6tj-gt35",
+               "url":"https://data.sfgov.org/Permitting/Street-Use-Permits/b6tj-gt35",
                "name":"Street-Use Permits",
                "value":6447,
                "log":8.77137
             },
             {
-               "link":"https://data.sfgov.org/Permitting/Utility-Excavation-Permits/smdf-6c45",
+               "url":"https://data.sfgov.org/Permitting/Utility-Excavation-Permits/smdf-6c45",
                "name":"Utility Excavation Permits",
                "value":2202,
                "log":7.697121
             },
             {
-               "link":"https://data.sfgov.org/Permitting/Street-Space-Permits/yivs-89de",
+               "url":"https://data.sfgov.org/Permitting/Street-Space-Permits/yivs-89de",
                "name":"Street Space Permits",
                "value":782,
                "log":6.6618547
             },
             {
-               "link":"https://data.sfgov.org/Permitting/Permit-Types/6wa6-8527",
+               "url":"https://data.sfgov.org/Permitting/Permit-Types/6wa6-8527",
                "name":"Permit Types",
                "value":36,
                "log":3.583519
             },
             {
-               "link":"https://data.sfgov.org/Permitting/Right-of-Way-Exception-Data/yrgu-vakm",
+               "url":"https://data.sfgov.org/Permitting/Right-of-Way-Exception-Data/yrgu-vakm",
                "name":"Right of Way Exception Data",
                "value":94064,
                "log":11.451731
             },
             {
-               "link":"https://data.sfgov.org/Permitting/Right-of-Way-Exception-Codes/a8af-5fif",
+               "url":"https://data.sfgov.org/Permitting/Right-of-Way-Exception-Codes/a8af-5fif",
                "name":"Right of Way Exception Codes",
                "value":46,
                "log":3.8286414
             },
             {
-               "link":"https://data.sfgov.org/Permitting/Street-Space-Permits/yvhc-cndm",
+               "url":"https://data.sfgov.org/Permitting/Street-Space-Permits/yvhc-cndm",
                "name":"Street Space Permits",
                "value":1160,
                "log":7.056175
@@ -791,7 +791,7 @@
          "name":"Organizations",
          "children":[
             {
-               "link":"https://data.sfgov.org/Organizations/Zip-Code-to-Supervisor-Lookup-with-Contact-Informa/ujme-i5np",
+               "url":"https://data.sfgov.org/Organizations/Zip-Code-to-Supervisor-Lookup-with-Contact-Informa/ujme-i5np",
                "name":"Zip Code to Supervisor Lookup with Contact Information",
                "value":75,
                "log":4.317488
