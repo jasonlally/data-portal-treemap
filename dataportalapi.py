@@ -15,6 +15,7 @@ def check_categories(d,category):
 
 def build_url(category,name,vid):
 	if category != "None":
+		category = re.sub('[^0-9a-zA-Z-\s]+', '', category)
 		category = category.replace(" ","-")
 	else:
 		category = "dataset"
