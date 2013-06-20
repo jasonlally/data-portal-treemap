@@ -1,6 +1,4 @@
-import requests
-import json
-import math
+import requests, json, math, re
 
 #This is the url of your Socrata domain
 sURL = 'https://data.sfgov.org'
@@ -14,6 +12,16 @@ def check_categories(d,category):
   for i in range(len(d)):
     if d[i]['name'] == category: return i
   return -1
+
+def build_url(category,name,vid):
+	if category != "None":
+		category = category.replace(" ","-")
+	else:
+		category = "dataset"
+	name = re.sub('[^0-9a-zA-Z-\s]+', '', name)
+	name = name.replace(" ","-")
+	url = sURL + "/" + category + "/" + name + "/" + vid
+	return url
 
 for response in responses['results']:
 	view = response['view']
@@ -34,7 +42,7 @@ for response in responses['results']:
 				#tags aren't used in the json file yet, these could probably be used to do alternate visualizations or in a companion list, this is just a placeholder for now
 				foo = tag
 		index = check_categories(out,category)
-		url = "http://data.sfgov.org"
+		url = build_url(category,name,vid)
 		if index == -1:
 			out.append({"name": category, "children": [ {"name": name, "value": size, "url": url, "log": logsize } ] })
 		else:
