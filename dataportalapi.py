@@ -5,6 +5,7 @@ def check_categories(d,category):
     if d[i]['name'] == category: return i
   return -1
 
+#found a simpler url construct that works, keeping this here for now
 def build_url(category,name,vid):
 	if category != "None":
 		category = re.sub('[^0-9a-zA-Z-\s]+', '', category)
@@ -20,8 +21,10 @@ def build_url(category,name,vid):
 sURL = 'https://data.sfgov.org'
 out = []
 page = 1
+records = 0
+total = 2
 #this should be a more intelligent loop that exits when the count = total records
-for i in range(1,7):
+while records < total:
 	payload = {'limit' : 100, 'page' : page}
 	r = requests.get(sURL + '/api/search/views.json', params=payload)
 
@@ -30,13 +33,14 @@ for i in range(1,7):
 
 	for response in responses['results']:
 		view = response['view']
+		records += 1
 		if len(view['columns']) != 0:
 			name = view['name']
 			vid = view['id']
 			views = view['viewCount']
 			size = view['columns'][0]['cachedContents']['non_null']
 			if size == 0:
-				size = 1
+				size = 2 #probably should just skip these altogether, for now making them a tiny dataset so LOG(0) doesn't occur
 			logsize = math.log(size)
 			if 'category' in view:
 				category = view['category']
@@ -47,7 +51,7 @@ for i in range(1,7):
 					#tags aren't used in the json file yet, these could probably be used to do alternate visualizations or in a companion list, this is just a placeholder for now
 					foo = tag
 			index = check_categories(out,category)
-			url = build_url(category,name,vid)
+			url = sURL + '/d/' + vid
 			if index == -1:
 				out.append({"name": category, "children": [ {"name": name, "value": size, "url": url, "log": logsize } ] })
 			else:
