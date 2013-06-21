@@ -20,11 +20,13 @@ def build_url(category,name,vid):
 sURL = 'https://data.sfgov.org'
 out = []
 page = 1
+#this should be a more intelligent loop that exits when the count = total records
 for i in range(1,7):
 	payload = {'limit' : 100, 'page' : page}
 	r = requests.get(sURL + '/api/search/views.json', params=payload)
 
 	responses = r.json()
+	total = responses['count']
 
 	for response in responses['results']:
 		view = response['view']
