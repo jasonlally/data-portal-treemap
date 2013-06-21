@@ -23,8 +23,9 @@ out = []
 page = 1
 records = 0
 total = 2
+rwithdata = 0
 while records < total:
-	payload = {'limit' : 100, 'page' : page}
+	payload = {'limit' : 100, 'page' : page, 'limitTo' : 'TABLES'}
 	r = requests.get(sURL + '/api/search/views.json', params=payload)
 
 	responses = r.json()
@@ -34,6 +35,7 @@ while records < total:
 		view = response['view']
 		records += 1
 		if len(view['columns']) != 0:
+			rwithdata += 1
 			name = view['name']
 			vid = view['id']
 			views = view['viewCount']
@@ -57,5 +59,5 @@ while records < total:
 				out[index]["children"].append({"name": name, "value": size, "url": url, "log": logsize })
 	page += 1
 
-final = {"name" :" San Francisco Data Portal", "children" : out}
+final = {"name" :" San Francisco Data Portal", "count" : rwithdata, "children" : out}
 print json.dumps(final)
