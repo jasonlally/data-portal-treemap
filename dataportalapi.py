@@ -1,3 +1,6 @@
+#Connects to the Socrata search API and loads data describing the tabular datasets in the catalog for use by D3 tree map
+#Use: python dataportalapi.py > portaldata.json
+
 import requests, json, math, re
 
 def check_categories(d,category):
