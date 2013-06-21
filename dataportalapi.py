@@ -23,7 +23,6 @@ out = []
 page = 1
 records = 0
 total = 2
-#this should be a more intelligent loop that exits when the count = total records
 while records < total:
 	payload = {'limit' : 100, 'page' : page}
 	r = requests.get(sURL + '/api/search/views.json', params=payload)
