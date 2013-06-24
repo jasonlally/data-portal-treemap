@@ -13,7 +13,7 @@ c = requests.get("https://opendata.socrata.com/resource/6wk3-4ija.json?$where=ty
 cities = c.json()
 final = {"name" : "Socrata Data Portals", "children": []}
 
-for city in cities[0:2]:
+for city in cities:
 	sURL = city['open_data_site_url']['url'].strip('/')
 	out = []
 	page = 1
