@@ -10,9 +10,9 @@ def check_categories(d,category):
 
 c = requests.get("https://opendata.socrata.com/resource/6wk3-4ija.json?$where=type='city'")
 cities = c.json()
-final = []
+final = {"name" : "Socrata Data Portals", "children": []}
 
-for city in cities[0:2]:
+for city in cities[0:4]:
 	sURL = city['open_data_site_url']['url'].strip('/')
 	out = []
 	page = 1
@@ -54,5 +54,5 @@ for city in cities[0:2]:
 					out[index]["children"].append({"name": name, "value": size, "url": url, "log": logsize })
 		page += 1
 	portaldata = {"name" : city['customer_name'] + " Data Portal", "count" : rwithdata, "children" : out}
-	final.append(portaldata)
+	final["children"].append(portaldata)
 print json.dumps(final)
