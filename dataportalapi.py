@@ -1,4 +1,5 @@
 #Connects to the Socrata search API and loads data describing the tabular datasets in the catalog for use by D3 tree map
+#This version connects to a list of existing Socrata instances and loops through the ones categorized as city
 #Use: python dataportalapi.py > portaldata.json
 
 import requests, json, math, re
@@ -12,7 +13,7 @@ c = requests.get("https://opendata.socrata.com/resource/6wk3-4ija.json?$where=ty
 cities = c.json()
 final = {"name" : "Socrata Data Portals", "children": []}
 
-for city in cities:
+for city in cities[0:2]:
 	sURL = city['open_data_site_url']['url'].strip('/')
 	out = []
 	page = 1
