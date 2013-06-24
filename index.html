@@ -123,7 +123,7 @@
 
 	/* load in data, display root */
 	d3.json("test.json", function(root) {
-
+		console.log(root);
 	    var replaceAll = function(src, oldr, newr){
 	      while(src.indexOf(oldr) > -1){
 	        src = src.replace(oldr, newr);
