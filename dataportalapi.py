@@ -29,7 +29,7 @@ for city in cities:
 		for response in responses['results']:
 			view = response['view']
 			records += 1
-			if len(view['columns']) != 0 and 'cachedContents' in view['columns'][0]:
+			if len(view['columns']) != 0 and 'cachedContents' in view['columns'][0] and not view['query']:
 				rwithdata += 1
 				name = view['name']
 				vid = view['id']
