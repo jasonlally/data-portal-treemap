@@ -46,7 +46,7 @@ for city in cities:
 					if 'category' in view:
 						category = view['category']
 					else:
-						category = "None"
+						category = "No Category"
 					if 'tags' in view:
 						for tag in view['tags']:
 							#tags aren't used in the json file yet, these could probably be used to do alternate visualizations or in a companion list, this is just a placeholder for now
