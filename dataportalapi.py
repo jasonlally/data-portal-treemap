@@ -54,9 +54,9 @@ for city in cities:
 					index = check_categories(out,category)
 					url = sURL + '/d/' + vid
 					if index == -1:
-						out.append({"name": category, "children": [ {"name": name, "value": size, "url": url, "log": logsize } ] })
+						out.append({"name": category, "children": [ {"name": name, "value": logsize, "url": url, "size": logsize } ] })
 					else:
-						out[index]["children"].append({"name": name, "value": size, "url": url, "log": logsize })
+						out[index]["children"].append({"name": name, "value": logsize, "url": url, "size": logsize })
 		else:
 			records = total
 		page += 1
