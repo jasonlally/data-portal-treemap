@@ -8,7 +8,7 @@ def check_categories(d,category):
   for i in range(len(d)):
     if d[i]['name'] == category: return i
   return -1
-
+#TODO: load via standard csv file with Name, URL, Scale, and Catalog Type as fields
 c = requests.get("https://opendata.socrata.com/resource/6wk3-4ija.json?$where=type='city'")
 cities = c.json()
 
