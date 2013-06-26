@@ -10,7 +10,8 @@ def check_categories(d,category):
   return -1
 
 c = requests.get("https://opendata.socrata.com/resource/6wk3-4ija.json?$where=type='city'")
-cities = c.json()
+cities = c.json
+
 final = {"name" : "Socrata Data Portals", "children": []}
 
 for city in cities:
@@ -24,13 +25,14 @@ for city in cities:
 		payload = {'limit' : 100, 'page' : page, 'limitTo' : 'TABLES'}
 		r = requests.get(sURL + '/api/search/views.json', params=payload)
 
-		responses = r.json()
+		responses = r.json
 		total = responses['count']
 
 		for response in responses['results']:
 			view = response['view']
 			records += 1
-			if len(view['columns']) != 0 and 'cachedContents' in view['columns'][0] and not view['query']:
+			if len(view['columns']) != 0 and 'cachedContents' in view['columns'][0] and 'flags' in view:
+				#print view['flags']
 				rwithdata += 1
 				name = view['name']
 				vid = view['id']
