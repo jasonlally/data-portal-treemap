@@ -8,7 +8,7 @@ def check_categories(d,category):
   for i in range(len(d)):
     if d[i]['name'] == category: return i
   return -1
-
+#TODO: load via standard csv file with Name, URL, Scale, and Catalog Type as fields
 c = requests.get("https://opendata.socrata.com/resource/6wk3-4ija.json?$where=type='city'")
 cities = c.json()
 
@@ -46,7 +46,7 @@ for city in cities:
 					if 'category' in view:
 						category = view['category']
 					else:
-						category = "None"
+						category = "No Category"
 					if 'tags' in view:
 						for tag in view['tags']:
 							#tags aren't used in the json file yet, these could probably be used to do alternate visualizations or in a companion list, this is just a placeholder for now
@@ -54,9 +54,9 @@ for city in cities:
 					index = check_categories(out,category)
 					url = sURL + '/d/' + vid
 					if index == -1:
-						out.append({"name": category, "children": [ {"name": name, "value": size, "url": url, "log": logsize } ] })
+						out.append({"name": category, "children": [ {"name": name, "value": logsize, "url": url, "size": logsize } ] })
 					else:
-						out[index]["children"].append({"name": name, "value": size, "url": url, "log": logsize })
+						out[index]["children"].append({"name": name, "value": logsize, "url": url, "size": logsize })
 		else:
 			records = total
 		page += 1
