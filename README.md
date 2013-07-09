@@ -9,7 +9,7 @@ The d3 code is heavily based on code shared by [The Ohio State University Depart
 
 ##Contributing
 Currently happy to have contributors. There's an empty issue queue that needs filling.  There will soon be a clearer roadmap that includes:
--Adding CKAN catalogs
--Adding stats on each of the catalogs
--Representing non-tabular data (like GIS shapefiles)
--Adding a list of the datasets that will update as your click through the treemap
+- Adding CKAN catalogs
+- Adding stats on each of the catalogs
+- Representing non-tabular data (like GIS shapefiles)
+- Adding a list of the datasets that will update as your click through the treemap
